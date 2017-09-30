@@ -10,4 +10,4 @@ feat1 line 9
 feat1 line 10
 feat1 line 11
 
-edit feat2 
+edit feat1#2 
