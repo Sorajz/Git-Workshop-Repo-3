@@ -1,5 +1,5 @@
 add line 1 for commit 2
-edit for commit5
+add line 2 for commit 2
 add line 3 for commit 2
 Insert line
 add line 4 for commit 3
