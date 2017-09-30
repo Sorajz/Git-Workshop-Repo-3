@@ -1,5 +1,5 @@
 feat2 line 1
-feat2 line 2
+feat2 line 2 edit on branch feature 2
 feat2 line 3
 feat2 line 4
 feat2 line 5
